@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 안녕하세요! 저는 규빈입니다!
 
-<!--
-**pythonproject-good/pythonproject-good** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 현재 작업 중: 파이썬 코딩, 알고리즘 풀이  
+🌱 배우고 있는 것: 데이터 구조, 머신러닝  
+💬 문의 사항: 언제든지 DM 주세요!  
+⚡ Fun fact: 코드 작성 중 음악 듣기 좋아해요!  
 
-Here are some ideas to get you started:
+## 기술 스택
+- 💻 **언어**: Python, JavaScript
+- ⚙️ **프레임워크**: Django, Flask
+- 🛠️ **툴**: Git, VS Code, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트
+### 📊 데이터 분석 프로젝트
+- 설명: 다양한 데이터를 분석하고, 시각화하는 프로젝트입니다.
+- 링크: [GitHub 프로젝트](https://github.com/your-username/project-name)
