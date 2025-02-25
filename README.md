@@ -9,8 +9,3 @@
 - 💻 **언어**: Python, JavaScript
 - ⚙️ **프레임워크**: Django, Flask
 - 🛠️ **툴**: Git, VS Code, Jupyter Notebook
-
-## 프로젝트
-### 📊 데이터 분석 프로젝트
-- 설명: 다양한 데이터를 분석하고, 시각화하는 프로젝트입니다.
-- 링크: [GitHub 프로젝트](https://github.com/your-username/project-name)
