@@ -9,3 +9,4 @@
 - 💻 **언어**: Python, JavaScript
 - ⚙️ **프레임워크**: Django, Flask
 - 🛠️ **툴**: Git, VS Code, Jupyter Notebook
+<iframe width="640" height="420" src="https://playentry.org/iframe/679b6718e83bc3a1c9776fbd" frameborder="0"></iframe>
